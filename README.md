@@ -2,3 +2,6 @@ Download builds from releases, make issues to report bugs or feature requests. S
 
 Note that Web and MacOS builds have not been thoroughly tested.
 The Web build is also being hosted [here](https://mug1wara26.itch.io/knights-of-the-lambda-calculus)
+
+## Acknowledgements
+Developed by me and [@notmeegoreng](https://github.com/notmeegoreng)
