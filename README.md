@@ -24,5 +24,8 @@ Note that these screenshots may contain spoilers to solutions
 ![omega](assets/omega.gif)
 *A Lambda expression being animated, this Lambda expression is also known as the omega operator*
 
+![poster](assets/poster.png)
+*Poster for our game*
+
 ## Acknowledgements
 Developed by me and [@notmeegoreng](https://github.com/notmeegoreng)
